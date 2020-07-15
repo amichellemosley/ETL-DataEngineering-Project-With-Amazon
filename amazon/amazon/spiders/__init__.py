@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import scrapy
-#import pandas from pd 
 from amazon.items import AmazonItem
 
 
